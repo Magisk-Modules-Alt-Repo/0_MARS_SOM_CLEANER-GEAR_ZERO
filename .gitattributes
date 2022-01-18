@@ -3,8 +3,8 @@
 *.prop text eol=lf
 *.md text eol=lf
 *.xml text eol=lf
-MARS_SOM_BASE/META-INF/** text eol=lf
-MARS_SOM_BASE/common/** text eol=lf
+MARS_SOM_CLEANER/META-INF/** text eol=lf
+MARS_SOM_CLEANER/common/** text eol=lf
 
 # DENOTE ALL FILES THAT ARE TRULY BINARY AND SHOULD NOT BE MODIFIED
-MARS_SOM_BASE/common/addon/**/tools/** binary
+MARS_SOM_CLEANER/common/addon/**/tools/** binary
